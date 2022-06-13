@@ -10,7 +10,7 @@ The EetlessBot is a handy helper that reads text messages from the 'eetless' Tel
 
 The bot is able to process the common commands that have been traditionally used in the chat. 
 
-<div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code>
+<div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight">
 
 K: I am cooking and invite people to join my meal.
 E: I would like to eat or join an announced meal.
@@ -20,8 +20,8 @@ X: I do no longer want to participate in the given meal.
 Si: Closes the inquiry to join the meal (Can only be used by the person cooking.)
 <name>: A person who is not yourself, bu lives in the house is added to the meal. Please always use the first name that the person uses on Telegram. If you want to add friends who do not live in the house, please use the +N command. 
 
-<span class="p">[</span><span class="nv">Link</span><span class="p">](</span><span class="sx">url</span><span class="p">)</span> and !<span class="p">[</span><span class="nv">Image</span><span class="p">](</span><span class="sx">src</span><span class="p">)</span>
-</code></pre></div></div>
+< -- <span class="p">[</span><span class="nv">Link</span><span class="p">](</span><span class="sx">url</span><span class="p">)</span> and !<span class="p">[</span><span class="nv">Image</span><span class="p">](</span><span class="sx">src</span><span class="p">)</span> -->
+</pre></div></div>
 
 Furthermore, there are a few helper commands to make life a little easier.
 /help: Prints a brief overview of the bots functionalities and commands in the chat.
