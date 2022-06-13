@@ -17,7 +17,7 @@ The bot is able to process the common commands that have been traditionally used
 <code>-N:</code>  N firends are removed from your balance. Only works if you have added them before.<br>
 <code>X:</code>  I do no longer want to participate in the given meal.<br>
 <code>Si:</code>  Closes the inquiry to join the meal (Can only be used by the person cooking.)<br>
-<code><name>:</code>  A person who is not yourself, bu lives in the house is added to the meal. Please always use the first name that the person uses on Telegram. If you want to add friends who do not live in the house, please use the +N command. <br>
+<code>first_name:</code>  A person who is not yourself, bu lives in the house is added to the meal. Please always use the first name that the person uses on Telegram. If you want to add friends who do not live in the house, please use the +N command. <br>
 </blockquote>
 
 Furthermore, there are a few helper commands to make life a little easier.
