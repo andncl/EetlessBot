@@ -1,7 +1,7 @@
 ## Welcome to the EetlessBot 
 
 <p style="border:3px; border-style:solid; border-color:#FF0000; padding: 1em;">
-**This site is still in progress!**
+<center><b>This site is still in progress!</b></center>
 </p>
 
 The EetlessBot is a handy helper that reads text messages from the 'eetless' Telegram group of the ATLAS student house in Delft. By using specific commands, meals can be scheduled and balanced. In the future the bot will be able to enter the calculated costs for each participating member into an accounting app like splitser. 
@@ -10,7 +10,7 @@ The EetlessBot is a handy helper that reads text messages from the 'eetless' Tel
 
 The bot is able to process the common commands that have been traditionally used in the chat. 
 
-<div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Syntax highlighted code block
+<div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code>
 
 K: I am cooking and invite people to join my meal.
 E: I would like to eat or join an announced meal.
